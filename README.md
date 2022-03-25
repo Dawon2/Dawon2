@@ -1,5 +1,5 @@
 ## <h1>🌱 Cloud Engineer 🔭 <h1>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=000000"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=000000"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=OpenVPN&logoColor=000000"/>
 #232F3E #EA7E20
 <!--
 **Dawon2/Dawon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
