@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dawon%20GitHub!!&fontSize=90&fontColor=0000FF" />
+    {
+        "idx": 3,
+        "color": {
+            "0" : "c2e59c",
+            "100" : "64b3f4"
+        },
+        "text": "f7f5f5",
+        "textBg": "282829"
+    },
