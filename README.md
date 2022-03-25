@@ -1,5 +1,7 @@
 ## <h1>🌱 Cloud Engineer 🔭 <h1>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Zabbix-#40AEF0?style=flat-square&logo=Linux&logoColor=000000"/>
+  #40AEF0
 <!--
 **Dawon2/Dawon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
