@@ -1,5 +1,5 @@
 ## <h1>🌱 Cloud Engineer 🔭 <h1>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Linux&logoColor=000000"/>
   #F46800
 <!--
