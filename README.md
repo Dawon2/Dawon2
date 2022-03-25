@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dawon%20GitHub!!&fontSize=80&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dawon%20GitHub!!&animation=fadeIn&fontSize=80&fontColor=auto)
 
