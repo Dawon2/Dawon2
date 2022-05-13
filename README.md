@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=OpenVPN&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/>
-등등 추후 정리
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=000000"/>
+
 
 #
   
