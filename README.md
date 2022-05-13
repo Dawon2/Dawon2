@@ -5,16 +5,16 @@
   
   <br>
   
-  ###  ✨ Stack ✨
+  ###  ✨ Cloud Stack ✨
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=Nutanix&logoColor=9DD84B"/>
   
   <br>
   <br>
   
   ### :fire: I've used :fire:
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=000000"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ff7f00"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=000000"/>
