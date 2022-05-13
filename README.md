@@ -7,8 +7,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/>
 등등 추후 정리
 
-![Dawon2's github stats](https://github-readme-stats.vercel.app/api?username=Dawon2&show_icons=true)
+***
   
+<br>
+<div align="center">
+![Dawon2's github stats](https://github-readme-stats.vercel.app/api?username=Dawon2&show_icons=true)
+</div>
+
 <!--
 **Dawon2/Dawon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
