@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dawon%20GitHub👋&animation=fadeIn&fontSize=80&fontColor=auto)
   # 🌱 Cloud Engineer 🔭
-   <h2> ✨ Stack ✨ <h2>
+  ##  ✨ Stack ✨
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=OpenVPN&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=000000"/>
