@@ -15,7 +15,7 @@
   <br>
   
   ### :fire: I've used :fire:
-  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=8B00FF"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=ff7f00"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=flat-square&logo=Let's Encrypt&logoColor=ff7f00"/>
