@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dawon%20GitHub👋&animation=fadeIn&fontSize=80&fontColor=auto)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dawon%20GitHub👋&animation=fadeIn&fontSize=60&fontColor=auto)
   # :cloud: Cloud Engineer :cloud:
   
   <br>
