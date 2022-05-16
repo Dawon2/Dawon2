@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ff7f00"/>
   <img src="https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=Nutanix&logoColor=9DD84B"/>
-  <img src="https://img.shields.io/badge/KT Cloud-C4302B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Naver Cloud Platform-00FF80?style=flat-square"/>
+  <img src="https://img.shields.io/badge/KT Cloud-?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Naver Cloud Platform-00FF00?style=flat-square"/>
   
   <br>
   <br>
